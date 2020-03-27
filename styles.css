@@ -196,6 +196,10 @@ input::placeholder, textarea::placeholder {
     margin: auto;
   }
 
+  .container {
+    margin: 1.5rem auto;
+  }
+
   .card__wrapper, .card__header, .card__actions {
     margin: 0;
   }
